@@ -18,7 +18,6 @@ datapackage:
         type: number
 ---
 
-<FlatUiTable url="BTC-USD.csv" />
 
 <PlotlyLineChart
   data={[
