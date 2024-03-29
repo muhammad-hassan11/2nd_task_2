@@ -1,4 +1,4 @@
-<FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
+<FlatUiTable url="https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1410912000&period2=1711670400&interval=1mo&events=history&includeAdjustedClose=true" />
 
 <PlotlyLineChart
   data={[
