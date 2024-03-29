@@ -1,4 +1,4 @@
-<FlatUiTable url="https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1410912000&period2=1711670400&interval=1mo&events=history&includeAdjustedClose=true" />
+<FlatUiTable url="https://github.com/muhammad-hassan11/2nd_task_2/blob/main/BTC-USD.csv" />
 
 <PlotlyLineChart
   data={[
