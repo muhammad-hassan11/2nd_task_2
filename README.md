@@ -19,8 +19,9 @@ datapackage:
 ---
 
 
-<PlotlyLineChart
-  data={[]}
+<LineChart
+  data="BTC-USD.csv"
+  title="Bitcoin Data"
   xAxis="Date"
   yAxis="Volume"
 />
