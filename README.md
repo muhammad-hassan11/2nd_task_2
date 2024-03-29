@@ -20,7 +20,7 @@ datapackage:
 
 
 <PlotlyLineChart
-  data=BTC-USD.csv
+  data={[]}
   xAxis="Date"
   yAxis="Volume"
 />
