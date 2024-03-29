@@ -25,3 +25,14 @@ datapackage:
   xAxis="Date"
   yAxis="Volume"
 />
+
+<PlotlyLineChart
+  data={[
+    {
+      Volume: 902994450,
+      Date: '01/10/2014'
+    }
+  ]}
+  xAxis="Date"
+  yAxis="Volume"
+/>
