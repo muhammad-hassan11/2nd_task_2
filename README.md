@@ -1,3 +1,5 @@
+<FlatUiTable url="https://storage.openspending.org/alberta-budget/__os_imported__alberta_total.csv" />
+
 <PlotlyLineChart
   data={[
     {
