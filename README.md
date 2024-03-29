@@ -1,4 +1,4 @@
-<FlatUiTable url="https://github.com/muhammad-hassan11/2nd_task_2/blob/main/BTC-USD.csv" />
+<FlatUiTable url="BTC-USD.csv" />
 
 <PlotlyLineChart
   data={[
